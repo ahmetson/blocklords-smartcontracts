@@ -1,0 +1,8 @@
+E:\neosoft\Blocklords\HeroContract\bin\Debug\HeroContract.dll
+E:\neosoft\Blocklords\HeroContract\bin\Debug\HeroContract.pdb
+E:\neosoft\Blocklords\HeroContract\bin\Debug\Neo.SmartContract.Framework.dll
+E:\neosoft\Blocklords\HeroContract\obj\Debug\HeroContract.csproj.CoreCompileInputs.cache
+E:\neosoft\Blocklords\HeroContract\obj\Debug\HeroContract.csproj.CopyComplete
+E:\neosoft\Blocklords\HeroContract\obj\Debug\HeroContract.dll
+E:\neosoft\Blocklords\HeroContract\obj\Debug\HeroContract.pdb
+E:\neosoft\Blocklords\HeroContract\obj\Debug\HeroContract.csprojAssemblyReference.cache

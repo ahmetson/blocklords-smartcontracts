@@ -1,0 +1,8 @@
+E:\neosoft\Blocklords\BattleContract\bin\Debug\BattleContract.dll
+E:\neosoft\Blocklords\BattleContract\bin\Debug\BattleContract.pdb
+E:\neosoft\Blocklords\BattleContract\bin\Debug\Neo.SmartContract.Framework.dll
+E:\neosoft\Blocklords\BattleContract\obj\Debug\BattleContract.csproj.CoreCompileInputs.cache
+E:\neosoft\Blocklords\BattleContract\obj\Debug\BattleContract.csproj.CopyComplete
+E:\neosoft\Blocklords\BattleContract\obj\Debug\BattleContract.dll
+E:\neosoft\Blocklords\BattleContract\obj\Debug\BattleContract.pdb
+E:\neosoft\Blocklords\BattleContract\obj\Debug\BattleContract.csprojAssemblyReference.cache
